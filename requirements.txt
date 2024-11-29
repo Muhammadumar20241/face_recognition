@@ -1,0 +1,5 @@
+pip install face-recognition
+pip install cv2
+pip install telebot
+
+
