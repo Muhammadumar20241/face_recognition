@@ -1,6 +1,7 @@
 # face_recognition
 Face identity bot
 1)Commands
+
 /start -This command is to start the program. As the user sends start command bot will create 'bot_folder' in the path(os) where the code is running. And alse two txt documents will be created. (names, counter). name is for saving the names of new images. counter is used as a part of name not to resave image by deleting the previous one 
 
 /all_data -This command is to get all datas. As the bot_folder is created. Bot will open names.txt and collect datas to a vareble called nam. If nam is empty bot will send message as  there is no dara else: the datas will be sent.
